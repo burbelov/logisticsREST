@@ -1,2 +1,3 @@
 /home/max/NetBeansProjects/logisticsREST/src/main/java/ru/sfedu/logisticsrest/ApplicationConfig.java
-/home/max/NetBeansProjects/logisticsREST/src/main/java/ru/sfedu/logisticsrest/GenericResource.java
+/home/max/NetBeansProjects/logisticsREST/src/main/java/ru/sfedu/logisticsrest/CustomerService.java
+/home/max/NetBeansProjects/logisticsREST/src/main/java/ru/sfedu/logisticsrest/DriverService.java
